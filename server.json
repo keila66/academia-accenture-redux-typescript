@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Curso de ReactJS",
+      "value": 1500,
+      "modules": [
+        {
+          "id": 1,
+          "title": "modulo 1"
+        },
+        {
+          "id": 2,
+          "title": "modulo 2"
+        },
+        {
+          "id": 3,
+          "title": "modulo 3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Curso de React Native",
+      "value": 2500,
+      "modules": [
+        {
+          "id": 1,
+          "title": "modulo 1"
+        },
+        {
+          "id": 2,
+          "title": "modulo 2"
+        },
+        {
+          "id": 3,
+          "title": "modulo 3"
+        },
+        {
+          "id": 4,
+          "title": "modulo 4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Curso de Javascript",
+      "value": 500,
+      "modules": [
+        {
+          "id": 1,
+          "title": "modulo 1"
+        },
+        {
+          "id": 2,
+          "title": "modulo 2"
+        },
+        {
+          "id": 3,
+          "title": "modulo 3"
+        },
+        {
+          "id": 4,
+          "title": "modulo 4"
+        },
+        {
+          "id": 5,
+          "title": "modulo 5"
+        }
+      ]
+    }
+  ],
+
+  "users" : [
+    {
+      "id": 1,
+      "name": "keila"
+    }
+  ]
+
+
+}
